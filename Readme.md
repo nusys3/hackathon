@@ -1,4 +1,4 @@
-# Code snipets
+# Code snippets
 
 ```language=python
     def startup:
